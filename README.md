@@ -1,4 +1,4 @@
-# DELMICH-DATA-CLEANING-AND-VISUALIZATION  
+## <h1 align="center">DELMICH-DATA-CLEANING-AND-VISUALIZATION </h1>
 -------------------------------------------
 ![Image](https://github.com/user-attachments/assets/e9dda4c6-fe56-4ecc-8992-139633c3eac0)
 
