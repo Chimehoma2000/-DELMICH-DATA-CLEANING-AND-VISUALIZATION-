@@ -1,6 +1,6 @@
 # DELMICH-DATA-CLEANING-AND-VISUALIZATION  
 -------------------------------------------
-
+![Image](https://github.com/user-attachments/assets/e9dda4c6-fe56-4ecc-8992-139633c3eac0)
 
 ## Overview
 The Dataset is for a consulting company that specializes in providing consulting services to individuals and businesses in the finance industry and also trains undergraduate 
